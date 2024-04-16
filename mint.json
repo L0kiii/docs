@@ -57,7 +57,11 @@
     {
       "group": "About Senet",
       "pages": [
-        "about-senet/markdown"
+        "about-senet/senet-app/senet-app",
+        "about-senet/senet-protocol/senet-protocol",
+        "about-senet/senet-space/senet-space",
+        "about-senet/senet-roadmap/senet-roadmap",
+        "about-senet/senet-token/senet-token"
       ]
     },
     {
