@@ -44,8 +44,26 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
-        "development"
+        "quickstart"
+      ]
+    },
+    {
+      "group": "Airdrop",
+      "pages": [
+        "airdrop/player/user",
+        "airdrop/developer/developer"
+      ]
+    },
+    {
+      "group": "About Senet",
+      "pages": [
+        "about-senet/markdown"
+      ]
+    },
+    {
+      "group": "Build On Senet",
+      "pages": [
+        "build-on-senet/markdown"
       ]
     },
     {
@@ -57,6 +75,15 @@
         "essentials/settings",
         "essentials/navigation",
         "essentials/reusable-snippets"
+      ]
+    },
+    {
+      "group": "API",
+      "pages": [
+        "api-reference/introduction",
+        "api-reference/endpoint/create",
+        "api-reference/endpoint/delete",
+        "api-reference/endpoint/get"
       ]
     }
   ],
